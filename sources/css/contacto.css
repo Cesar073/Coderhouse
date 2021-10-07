@@ -1,3 +1,11 @@
 main {
     background-color: #A6692E;
 }
+
+.btn-enviar{
+    background-color: #2CA93B;
+}
+
+.btn-limpiar{
+    background-color: #D02222;
+}
