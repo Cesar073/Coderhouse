@@ -1,0 +1,46 @@
+body {
+    background-color: #FFC882;
+    font-family: sans-serif;
+}
+
+main {
+    background-color: #A6692E;
+}
+
+.btn-enviar{
+    background-color: #2CA93B;
+}
+
+.btn-limpiar{
+    background-color: #D02222;
+}
+
+.btn-continuar{
+    background-color: #ED8728;
+}
+
+/* PRODUCTOS */
+.main{
+    background-color: #2B2B2B;
+    font-style: italic;
+}
+.main_letra{
+    color: white;
+}
+
+.aqua {
+    background-color: #B2F9FC;
+    font-family: Verdana;
+}
+.terra {
+    background-color: #CFB784;
+    font-family: Verdana;
+}
+.marsala {
+    background-color: #A2416B;
+    font-family: Verdana;
+}
+.pink {
+    background-color: #FFDEFA;
+    font-family: Verdana;
+}

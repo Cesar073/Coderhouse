@@ -1,0 +1,35 @@
+Unidades de medida: xx: 12:05
+
+    rem: 00:00:00
+
+TIPOGRAFÍA: 00:02:00 > Incluye el paso a paso para usar google fonts
+    Desafío: Estilos: 00.04.30
+
+-DESAFÍO PARA ENTREGAR >>> ASIGNANDO ESTILOS: 00.21.12
+
+-PRIMERA ENTREGA PROYECTO FINAL >>> 00.25.50
+
+BOX MODEL 00.33.50 --- TMB: 00.39.50
+
+PROPIEDADES DE LA CAJA: 00.37.00
+
+DIV: 00.37.50
+
+SPAN: 00.38.40
+
+PROPIEDADES DE LAS CAJAS: 00.49.20
+    Alto y ancho de cajas: 00.43.27
+    Overflow: 00.48.00
+    Espacio exterior: 00.50.20
+
+DISPLAY (bloque - en línea): 01.02.20
+
+POSITION (posiciones de las cajas): 01.07.20
+    Relativa: 01.12.20
+    Absoluta: 01.13.06
+    fixed y sticky: 01.14.07
+
+Tamaño máximo de pantalla:
+    max-width: 01.20.05
+
+
