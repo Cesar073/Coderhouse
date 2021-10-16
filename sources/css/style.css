@@ -60,7 +60,6 @@ header {
     border: solid 0px black;
 }
 
-
 .nav__list {
     list-style: none;
     font-size: 0;
@@ -141,18 +140,6 @@ ul li:hover ul{
 
 .Info_2 iframe{
     width: 69%;
-}
-
-.btn-enviar{
-    background-color: #2CA93B;
-}
-
-.btn-limpiar{
-    background-color: #D02222;
-}
-
-.btn-continuar{
-    background-color: #ED8728;
 }
 
 /* PRODUCTOS */
@@ -253,6 +240,44 @@ ul li:hover ul{
     padding: 2%;
     border-radius: 15px;
 }
+
+/* CONTACTANOS */
+form {
+    font-weight: 600;
+}
+form div label {
+    font-size: 25px;
+}
+form div input {
+    height: 30px;
+}
+
+.btn-limpiar{
+    background-color: #D02222;
+}
+
+/* CARRITO */
+.tabla {
+    width: 100%;
+}
+.Total {
+    font-family:'Oswald', sans-serif;
+    font-weight: 600;
+}
+
+.btn {
+    margin: 15px 5px;
+    height: 45px;
+    padding: 15px;
+    border-radius: 7px;
+}
+.continuar{
+    background-color: #ED8728;
+}
+.enviar{
+    background-color: #2CA93B;
+}
+
 
 /* FOOTER */
 footer {
